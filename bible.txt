@@ -1,4 +1,4 @@
-shoot gun while in ac130:
+**shoot gun while in ac130:**
 start new round, enter ac130, change class
 
 ladder ac130:
