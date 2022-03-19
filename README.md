@@ -1,1 +1,3 @@
-# MW2-Glitching-Bible
+# MW2 Glitching Bible
+
+## List of glitching method ideas for MW2.
