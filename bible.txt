@@ -1,0 +1,128 @@
+shoot gun while in ac130:
+start new round, enter ac130, change class
+
+ladder ac130:
+call in ac130, jump on a ladder right before you enter it. slightly stronger than shoot gun while in ac130.
+
+mix killstreak with spectate:
+game mode with limited lives, on last life die as you're opening the killstreak. spectate someone and go free-cam. spectating someone in a killstreak has different effects. if you do it with a chopper gunner and spectate an ac130 and the ac130 ends, when your chopper gunner ends you will teleport to its position. If you only have two people, you need to get him on your team first by killing him and having him switch to your team before respawning. Works with predator missiles but you can’t spectate others or go into free cam. We should try mixing this with changing classes at the beginning of the round. You would need 3 people and reflect on. Changing your class makes the killstreak end. DOES NOT TRACK YOUR TAC.
+(This is basically a precursor to the osprey gunner glitch in mw3)
+
+choose class in spectator:
+hover over spectate, press circle x x really fast - doesn't do anything?
+
+spawning without class?:
+force respawn disabled?, select a team, when choosing a class press circle x x circle. Harder to do than spectate method.
+
+double death:
+have someone kill you at the same time you choose a class and they will kill you twice. make sure they shoot multiple bullets or else it won't work (similar to black ops 1)
+
+end game temporary god mode:
+call in ac130, when ac130 time reaches 15 seconds plant a 5 second bomb. You get temporary god mode until the game ends.
+
+have no gun:
+call in killstreak, before you go into it capture a care package and you won't have a gun.
+
+teleport bomb or flag out of map:
+pick up bomb or flag and switch to spectator.
+
+spawn under highrise (doesn't work):
+choose class without tac, get a hanging care package, change class to a tac with OMA, change back, pick up care package, go to invalid tac spot, place tac. it will be slightly under the map. You still spawn at the original location. Highrise has a death barrier all the way down anyway.
+
+throw predator missile laptop:
+dpad right, triangle, pull out throwing knife. when you throw the knife, other people will see the laptop get thrown.
+
+shoot with tac glitch:
+take out OMA, spam r1 & x (equip tac & choose class), when you get it jump on a ladder before class change ends.
+
+Bomb site is c4 or tac gives God mode?:
+Plant Bomb then start placing tac shortly after, if done correctly the Bomb exploding shouldn't kill you or anyone else nearby, sometimes can kill you but not others, or other way around. Pretty sure the person planting the Bomb has to be the one planting the tac. For this method Bomb timer must be set to 5 seconds, you can also try to just guess the timing.
+
+Become killstreaks/objects:
+Call in predator, right after/as the predator crashes change teams, you should now be stuck in infinite predator vision, other people using killstreaks/planting the bomb/using equipment will cause you to become those objects, seemingly at random.
+
+Fake tac/tac tracking:
+Plant your tac and use OMA to switch to a class with either C4 or claymore, and scavenger. Now pick up your tac then Plant your c4/claymore and tac. Then go grab a scavenger pack, you should now have another c4/claymore and a fake tactical insertion. Also picking up a tactical insertion from another class makes it so you are now always being tracked, even if you change classes. Not strong enough to follow ks entity.
+
+Scavenger pack tracks KS entity:
+when the killstreak entity spawns it picks up a scavenger pack, this allows you to know exactly when it spawns. If killed after entity spawns, you get put into the killstreak earlier than normal. 
+
+Re pick up bomb while respawning:
+If you die while in a killstreak, when you spawn after it ends you will momentarily be back where you died because of the KS entity and you will pick up the bomb again that you were holding before death. (Doesn’t always pick up bomb)
+
+Spectate yourself/ dead bodies:
+have killcams on and have someone kill you, change teams during the killcam but don't pick a class, then press square to spawn, you will now spectate the first dead body. Or have someone drop a claymore and then switch to spectator, walk in front of that claymore and die, during the killcam do the same steps except you're now spectating yourself
+
+Copy class while going into spectator:
+Have killcams enabled. Die a bunch of times to get copycat. Hover over spectate have someone kill you and immediately press x start triangle as fast as humanly possible while watching the killcam. You will copy the class if you get it and briefly spawn in before dying again. The spot you spawn on counts as a valid tac location. Doesn’t work with pressing square. Triangle is stronger than square?
+
+See previous team in spectator:
+Have killcams enabled. Change team and have someone kill you as soon as you spawn. Enter start in killcam and you will see your previous teams.
+
+See someone on your team in killcam:
+Have killcam enabled. Have someone on your team. Then go to the enemy team spawn and have them switch to the enemy team and kill you. You will see them on your team in the beginning of the killcam.
+
+Final stand god mode:
+When you get put into final stand, you have god mode momentarily (Confirmed with nuke). Allows us to get under sub base. You cannot stack final stand and last stand. Your tac location is tracked while in final stand.
+
+Fall really fast:
+Begin taking a care package while in the air and get put into final stand. You gain more speed the longer you capture and fall when you let go.
+
+Control turret while in spectator:
+Hold down right stick next to a turret. Hold square and press start as fast as possible then mash x. You only control the turret for a few frames at most. (Might work with tac since turret and tac pickup timings are the same).
+
+Final stand stop falling:
+If you go into final stand while falling, you momentarily stop in mid air. Doesn’t work with last stand.
+
+Final stand is built off of last stand:
+Final stand shows up as last stand in spectator when perks are diasbled.
+
+Holding a grenade kills you in most god mode forms.
+
+End of round god mode is stronger and holding a grenade doesn’t kill you.
+
+Holding square to die at the end of the round kills you but you get back up.
+
+Switching teams god mode:
+At the end of the round if you switch teams right before the game prevents you from switching teams, you change teams and get god mode. If you do it while in a killstreak, the killstreak goes away and you get god mode. Basically the same shit. If you switch to spectator instead, your body disappears and you’re on the spectator team while technically alive but still in a camera mode. The act of dying is what stops your killstreak, not being dead. If you try to climb over someone who goes to spectator, you do not teleport with them.
+
+Last stand switch teams:
+Going into spectator right as you enter last stand shakes your screen a bit but doesn’t do anything.
+
+Spawning on spectator?
+Combine the copycat glitch with switching teams god mode. (Incredibly difficult timing. Wouldn’t want to try)
+
+Chopper gunner cannot shoot friendly claymore with reflect on. Shooting a sentry gun while in an ac130 or chopper gunner takes out friendly sentry gun on shared and reflect. Ac130 can take out friendly chopper with reflect, the ac130 takes no damage.
+
+Change to (spectator / other team) with one man army:
+Be on the bottom team and then pull out oma and quickly press start down x down x. The hope was that one man army would still appear, but it does not. Mixing this is with the change teams god mode doesn’t work because the end of round disables oma.
+
+Teleport to center point:
+Be the host of a lobby and have one other person in the game. Have them eject disc / quit game and you should teleport to point 0 0 0 on the map. This sort of creates two players. Where you move during the lag affects where your real body is but it won’t pass through walls. Climbing has no effect. Care packages cannot be picked up
+
+Teleport as a game mechanic information:
+Any form of teleport within the game is actually just the character changing positions quickly (An example is standing far away from a turret and getting on and off it). The player will always teleport back to their original position. The duration of a teleport is constant and will always take 1/10 of a second to complete. Changes in the z axis will occur immediately, but changes in both x and y will drag the player along until they reach the destination.
+
+Place tac in the middle of teleport path (doesn’t work):
+(read previous entry for background info on teleporting) If points A and B of a teleport are on the same z-axis, you should technically be touching the ground the entire way through given that the ground is flat. It is technically possible to switch to spectator while in the middle of this. You can then pick a class without a tac and place it in an invalid spot. If point B is a valid tac location, the tac will always end up there. However, if point B is invalid, it will go to the last valid position which is point A. This means that the state the player gets put into during teleportation never allows for a valid tac placement, but the player’s entity will still reach point B despite the player being in spectator. Teleporting always gives iframes?
+
+When the player goes into spectator, the camera will be offset from the default spectate position by the same distance they are from point B and the camera will move until the player’s entity reaches point B and the camera reaches its default position.
+
+Planting the bomb and being on a ladder are not strong enough to prevent a teleport but capturing a care package and being on a turret are.
+
+Last stand gives another health state:
+Getting a headshot on someone with last stand doesn’t count as a headshot because it’s actually putting them into last stand and killing them again. They’re technically dying twice.
+
+Round start switching classes information:
+Things that prevent you from switching classes include shooting, being shot, any damage taken.
+
+Things that still allow you to switch classes include being knifed in one hit, spawning in, using killstreaks.
+
+If you get shot and die and respawn you can switch classes again.
+
+Force spawn on spectator (does not work):
+Going into the next round forces anyone on spectator to be put onto a team. The thought was to have one person in spectator and fill the rest of the lobby up so that the one person would be forced to spawn on spectator. This doesn’t work because the game still reserves a spot for them on the team.
+
+Speculation:
+Spawn location is predetermined.
+Character dies in copy class while going into spectator due to the delayed killswitch of entering spectate.
