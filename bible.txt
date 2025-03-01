@@ -123,6 +123,25 @@ If you get shot and die and respawn you can switch classes again.
 Force spawn on spectator (does not work):
 Going into the next round forces anyone on spectator to be put onto a team. The thought was to have one person in spectator and fill the rest of the lobby up so that the one person would be forced to spawn on spectator. This doesn’t work because the game still reserves a spot for them on the team.
 
+
+Use killstreak during EMP:
+call in killstreak (ac130, chopper, pred) then they call in EMP, then you die
+
+locking killstreaks:
+if you begin calling in a streak right as you receive another, the first one will be locked.
+when you get the first streak again, it will be called in immediately.
+you can also lock by picking up a carepackage. call in killstreak and then begin picking up carepackage as late as possible
+
+teleport goal:
+if we could be in two killstreaks at the same time, the first one ending will cause isusingremote to be undefined and then if you get another killstreak you can call it in and you will teleport up to it and when it ends it drops you out of the map.
+the problem is that killstreakUsePressed() checks the value of usingremote so you shouldnt be able to use two at once.
+
+keep laptop out after killstreak:
+knife, hold to pick up a weapon, and then enter a killstreak
+
+hud in killstreaks (another one):
+go into ac130, spam knife and once you knife spam killstreak button (you need another streak after the ac130)
+
 Speculation:
 Spawn location is predetermined.
 Character dies in copy class while going into spectator due to the delayed killswitch of entering spectate.
